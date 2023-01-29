@@ -17,9 +17,9 @@ new Vue({
               <li class="nav-item">
                 <a class="nav-link" href="../index.html">Inicio <span class="sr-only">(current)</span></a>
               </li>
-              <li class="nav-item active">
+              <!--<li class="nav-item active">
                 <a class="nav-link" href="blog.html">Blog</a>
-              </li>
+              </li>-->
               <li class="nav-item dropdown">
                 <a class="nav-link text-service dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   Servicios
@@ -30,17 +30,17 @@ new Vue({
                 
                 </div>
               </li>
-              <li class="nav-item">
+              <!--<li class="nav-item">
                 <a class="nav-link text-tienda" href="tienda.html">Tienda<span class="sr-only">(current)</span></a>
-              </li>
+              </li>-->
               <li class="nav-item">
                 <a class="nav-link" href="../index.html#contacto">Contacto <span class="sr-only">(current)</span></a>
-              </li>
+              </li><!--
               <li class="nav-item">
                 <a class="nav-link" href="sobremi.html">Sobre Mi <span class="sr-only">(current)</span></a>
-              </li>
+              </li>-->
               <li class="nav-item">
-                <a class="nav-link text-platzi" href="#suscribete" data-toggle="modal" data-target="#modelSus">Suscríbete <span class="sr-only">(current)</span></a>              </li>
+                <a class="nav-link text-platzi" href="#servicios" >Sobre Mi <span class="sr-only">(current)</span></a>              </li>
             </ul>
           </div>
       </div>
@@ -61,9 +61,9 @@ new Vue({
               <li class="nav-item">
                 <a class="nav-link" href="..\\..\\index.html">Inicio <span class="sr-only">(current)</span></a>
               </li>
-              <li class="nav-item active">
+              <!--<li class="nav-item active">
                 <a class="nav-link" href="..\\blog.html">Blog</a>
-              </li>
+              </li>-->
               <li class="nav-item dropdown">
                 <a class="nav-link text-service dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   Servicios
@@ -74,17 +74,17 @@ new Vue({
                   
                 </div>
               </li>
-              <li class="nav-item">
+              <!--<li class="nav-item">
                 <a class="nav-link text-tienda" href="..\\tienda.html">Tienda<span class="sr-only">(current)</span></a>
-              </li>
+              </li>-->
               <li class="nav-item">
                 <a class="nav-link" href="..\\..\\index.html#contacto">Contacto <span class="sr-only">(current)</span></a>
-              </li>
+              </li><!--
               <li class="nav-item">
                 <a class="nav-link" href="..\\sobremi.html">Sobre Mi <span class="sr-only">(current)</span></a>
-              </li>
+              </li>-->
               <li class="nav-item">
-                <a class="nav-link text-platzi" href="#suscribete" data-toggle="modal" data-target="#modelSus">Suscríbete <span class="sr-only">(current)</span></a>
+                <a class="nav-link text-platzi" href="#servicios" >Sobre Mi <span class="sr-only">(current)</span></a>
               </li>
             </ul>
           </div>
@@ -107,9 +107,9 @@ new Vue({
                 <li class="nav-item active">
                   <a class="nav-link" href="index.html">Inicio <span class="sr-only">(current)</span></a>
                 </li>
-                <li class="nav-item">
+                <!--<li class="nav-item">
                   <a class="nav-link" href="paginas/blog.html">Blog</a>
-                </li>
+                </li>-->
                 <li class="nav-item dropdown">
                   <a class="nav-link text-service dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     Servicios
@@ -120,18 +120,19 @@ new Vue({
                    
                   </div>
                 </li>
-              <li class="nav-item">
-                <a class="nav-link text-tienda" href="paginas/tienda.html">Tienda<span class="sr-only">(current)</span></a>
-              </li>
+<!--            <li class="nav-item">
+                    <a class="nav-link text-tienda" href="paginas/tienda.html">Tienda<span class="sr-only">(current)</span></a>
+                </li>-->
                 <li class="nav-item">
                   <a class="nav-link" href="#contacto">Contacto <span class="sr-only">(current)</span></a>
-                </li>
+                </li><!--
                 <li class="nav-item">
                   <a class="nav-link" href="paginas/sobremi.html">Sobre Mi <span class="sr-only">(current)</span></a>
-                </li>
+                </li>-->
                 <li class="nav-item">
-                  <a class="nav-link text-platzi" href="#suscribete" data-toggle="modal" data-target="#modelSus">Suscríbete <span class="sr-only">(current)</span></a>
+                  <a class="nav-link text-platzi" href="#servicios" >Sobre Mi <span class="sr-only">(current)</span></a>
                 </li>
+                
               </ul>
             </div>
         </div>

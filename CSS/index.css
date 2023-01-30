@@ -338,7 +338,6 @@ input[id^='identityMen']{
   display: inline; 
   background-color: black; 
   color: white;
-
 }
 
 
@@ -373,8 +372,8 @@ input[id^='identityMen']{
 /*-------------------------cards-----------------------*/
 
 .card {
-  width: 22rem;
   background-color: black;
   color: white;
+  margin-bottom: 4rem;
 }
 

@@ -110,14 +110,7 @@ new Vue({
                   <a class="nav-link" href="paginas/blog.html">Blog</a>
                 </li>-->
                 <li class="nav-item dropdown">
-                  <a class="nav-link text-service dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Servicios
-                  </a>
-                  <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <a class="dropdown-item" href="#Proyectos">Crear Paginas Web</a>
-                    <a class="dropdown-item" href="#Proyectos">Servicio Técnico Personalizado </a>
-                   
-                  </div>
+                  <a class="nav-link" style="color: #2283F3" href="#Proyectos" >Servicios</a>
                 </li>
 <!--            <li class="nav-item">
                     <a class="nav-link text-tienda" href="paginas/tienda.html">Tienda<span class="sr-only">(current)</span></a>

@@ -17,16 +17,21 @@ body{
   background-color: #000000;
 }
 
-#resaltar{
+#resaltar {
   color: orange;
 }
 
-div[id^='MeGustasArtic']{
+#texto-normal {
+  color: black;
+}
+
+div[id^='MeGustasArtic'] {
   left: 40px;
   top: 1px;
   position: absolute;
   color: orange;
 }
+
 /*
 #MeGustasArticle{
 
@@ -77,7 +82,7 @@ section .container-fluid .row .col-12 h5 a{
 /*----------------------index-------------------------*/
 /*carrosel de imagenes index*/
 #main .carousel-item img {
-  max-height: 70vh;
+  max-height: 100vh;
   object-fit: cover;
   filter: grayscale(20%);
 }
@@ -307,7 +312,7 @@ input[id^='identityMen']{
 }
 /*-------------------proyectos-----------------------*/
 #main .carousel .carousel-item img {
-  height: 70vh;
+  height: 100vh;
   object-fit: cover;
   filter: grayscale(10%);
 }

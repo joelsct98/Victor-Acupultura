@@ -5,7 +5,7 @@ new Vue({
 <nav id="header" class="navbar navbar-expand-lg navbar-dark bg-dark mb-4">
       <div class="container-fluid ">
           <a class="navbar-brand" href="../index.html">
-            <img src="../img/logo.png" alt="logo-bayiba">
+            <img src="../img/medicina-tradicional.png" alt="logo-bayiba">
             <strong style="font-size: 35px;">Bayiva</strong>.com
           </a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -49,7 +49,7 @@ new Vue({
     <nav id="header" class="navbar navbar-expand-lg navbar-dark bg-dark">
       <div class="container-fluid ">
           <a class="navbar-brand" href="..\\..\\index.html">
-            <img src="../../img/logo.png" alt="logo-bayiba">
+            <img src="../../img/medicina-tradicional.png" alt="logo-bayiba">
             <strong>Bayiva</strong>.com
           </a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -95,8 +95,9 @@ new Vue({
       <nav id="header" class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid ">
             <a class="navbar-brand" href="index.html">
-              <img src="img/logo.png" alt="logo-bayiba">
-              <strong>Bayiva</strong>.com
+              <img src="img/medicina-tradicional.png" alt="logo-bayiba">
+              &nbsp;&nbsp;&nbsp;&nbsp;
+               <strong>Energia y Salud</strong>
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
@@ -124,14 +125,15 @@ new Vue({
                     <a class="nav-link text-tienda" href="paginas/tienda.html">Tienda<span class="sr-only">(current)</span></a>
                 </li>-->
                 <li class="nav-item">
-                  <a class="nav-link" href="#contacto">Contacto <span class="sr-only">(current)</span></a>
-                </li><!--
+                  <a class="nav-link " href="#servicios" >Sobre Mi <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link text-tienda" href="#contacto">Contacto <span class="sr-only">(current)</span></a>
+                </li>
+                <!--
                 <li class="nav-item">
                   <a class="nav-link" href="paginas/sobremi.html">Sobre Mi <span class="sr-only">(current)</span></a>
                 </li>-->
-                <li class="nav-item">
-                  <a class="nav-link text-platzi" href="#servicios" >Sobre Mi <span class="sr-only">(current)</span></a>
-                </li>
                 
               </ul>
             </div>

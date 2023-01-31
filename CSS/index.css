@@ -83,7 +83,7 @@ section .container-fluid .row .col-12 h5 a{
 }
 
 #servicios .carousel-item img {
-  height: 40vh;
+  height: 100vh;
   object-fit: cover;
   filter: grayscale(20%);
 }
@@ -376,4 +376,9 @@ input[id^='identityMen']{
   color: white;
   margin-bottom: 4rem;
 }
+
+/*
+.card .card-body{
+  opacity: 0.5;
+}*/
 

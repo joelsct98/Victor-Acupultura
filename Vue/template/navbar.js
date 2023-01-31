@@ -95,8 +95,6 @@ new Vue({
       <nav id="header" class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid ">
             <a class="navbar-brand" href="index.html">
-              <img src="img/medicina-tradicional.png" alt="logo-bayiba">
-              &nbsp;&nbsp;&nbsp;&nbsp;
                <strong>Energia y Salud</strong>
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

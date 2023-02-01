@@ -353,7 +353,12 @@ input[id^='identityMen']{
   color: rgb(255, 217, 0);
 }
 
+/*--------------------------Contacto--------------------------*/
 
+.tituloContacto {
+  color: orange;
+  font-size: larger;
+}
 
 /*-------------------------footer-----------------------*/
 #footer{

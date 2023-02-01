@@ -1,4 +1,18 @@
+function isArriba() {
+    window.addEventListener('scroll', () => {
+        var scroll = document.documentElement.scrollTop;
+        console.log(scroll);
+        var botonArriba = document.getElementById('botonArriba');
 
+        if (scroll > 500) {
+            botonArriba.style.right = 20 + "px";
+        } else {
+            botonArriba.style.right = -100 + "px";
+        }
+    })
+}
+
+isArriba();
 
 function Suscribirse() {
     var Usuario = document.getElementById('emailId');
@@ -7,8 +21,8 @@ function Suscribirse() {
 
     fetch('https://bayiva2.herokuapp.com/Bayiva/api/Suscribete/save', {
         method: 'POST',
-        headers:{
-            'content-type':'application/json',
+        headers: {
+            'content-type': 'application/json',
         },
         body:JSON.stringify({
             "subscribeId": NumeroSuscripciones+1,

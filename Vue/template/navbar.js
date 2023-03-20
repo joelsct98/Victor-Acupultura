@@ -95,7 +95,6 @@ new Vue({
       <nav id="header" class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid ">
             <a class="navbar-brand" href="index.html">
-                <img src="img/LogoEnergiaSalud.png" alt="logo-bayiba" style="width: 5em; height: 5em">
                 <strong>Energia y Salud</strong>
               
             </a>
